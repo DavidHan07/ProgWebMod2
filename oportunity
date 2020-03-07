@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Football Lounge</title>
+        <link rel="stylesheet" href="oporview.css"
+    </head>
+    <body>
+     <header>
+        <img id="logo" src="logo.png" alt="logo">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </header>
+    <section>
+    <div class="tengah">
+        <h1 id="judul"> Paruh Musim : Wonderkid Yang Masih "Panas"</h1>
+        </div>
+    <div class="berita">
+        <p id="pg1">Pada musim 2019/2020 sampai pertengah musim memasuki tahun 2020 memang banyak sekali kejutan – kejutan luarbiasa aneh seperti rekor unbeaten Liverpool, pemecatan Pochettino, Young ke Inter, Transer Erling Haaland ke Dortmund, dan berbagai kejutan – kejutan super aneh lainnya. Tapi ada hal yang saya sangat suka amati dari musim - musim yaitu perkembangan pemain muda berbakat atau  biasa disebut Wonderkid. Meskipun berlabelkan Wonderkid terkadang masih terjadi inkonsistensi performa, Namanya juga anak muda. Namun sampai paruh pertengah musim ini secara mengejutkan ada beberapa pemain berbakat ini yang masih mencapai konsistensi hingga saat ini. Jadi Siapa aja nih ?</p>
+
+    </div>
+</body>
+</html>
