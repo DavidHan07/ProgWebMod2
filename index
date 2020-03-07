@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>Football Lounge</title>
+        <link rel="stylesheet" href="style.css"
+    </head>
+    <body>
+     <header>
+        <img id="logo" src="logo.png" alt="logo">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+        </header>
+    <section>
+    <div class="tengah">
+        <h1 id="judul"> Football Lounge;</h1>
+        <p id="caption">Karena berbicara bola tidak selalu dengan otot yang ngotot.</p>
+
+    </div>
+    </section>
+    <section>
+        <div class="kiri">
+            <section class = "isi">
+                <article>
+                    <figure>
+                        <img src="kids.jpg" alt="kids">
+                    </figure>
+                    <hgroup>
+                        <h2>Paruh Musim : Wonderkid Yang Masih "Panas"</h2>
+                    </hgroup>
+                    <p>Pada musim 2019/2020 sampai pertengah musim memasuki tahun 2020 memang banyak sekali kejutan – kejutan...</p>
+                </article>
+                <article>
+                    <figure>
+                        <img src="moupep.jpg" alt="moupep">
+                    </figure>
+                    <hgroup>
+                        <h2>Oportunisme Vs Enterteinisme : Perdebatan Tak Kunjung Usai</h2>
+                    </hgroup>
+                    <p>Akhir – akhir ini kita disuguhkan pertikaian antara Coach Justin dan Fans Kardus (Sebutan fans yang buta akan skema permainan) yang terjadi di Twitter...</p>
+                </article>
+            </section>
+
+        </div>
+        <div id="kanan">
+            <h1 id="person">PERSONALITY</h1>
+            <img id="klop" src="klop.jpg" alt="klop">
+            <h4 id="capklop">Sosok Fenoma Itu Bernama Klopp</h4>
+            <img id="rooney" src="rooney.jpg" alt="rooney">
+            <h4 id="caproo">Selalu Yang Berada Di Bayang - Bayang : Rooney</h4>
+        </div>
+    </section>
+    <footer>
+        <h5 id="cop">Copyright by Football Lounge 2020</h5>
+    </footer>  
+    </body>
+</html>
